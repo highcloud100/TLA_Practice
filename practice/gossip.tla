@@ -1,0 +1,5 @@
+---- MODULE gossip ----
+EXTENDS TLC
+
+
+====
