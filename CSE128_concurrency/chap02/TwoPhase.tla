@@ -39,6 +39,8 @@ TPNext == TPCall \/ TPReturn
 
 TPSpec == TPInit /\ [][TPNext]_<<iFace, c, r>>
 
+CS
+
 TPInvariant == /\ CRInvariant
                /\ c \in {0,1}
                /\ r \in {0,1}
