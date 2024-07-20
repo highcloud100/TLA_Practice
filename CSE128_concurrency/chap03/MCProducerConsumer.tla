@@ -1,5 +1,5 @@
 ---- MODULE MCProducerConsumer ----
-EXTENDS ProducerConsumer, Naturals 
+EXTENDS SemProducerConsumer, Naturals 
 
 MCRtnVal(v) == v^2
 ====

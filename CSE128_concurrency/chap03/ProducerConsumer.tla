@@ -6,7 +6,7 @@ ASSUME (N \in Nat) /\ (N > 0)
 
 VARIABLE q 
 
-PCTypeOk == /\ CRTypeOk
+PCTypeOk == /\ CRTypeOK
             /\ q \in Seq(Input) 
             /\ Len(q) <= N
 
