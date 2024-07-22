@@ -15,7 +15,7 @@ SemPCTypeOK == /\ CRTypeOK
 
 SemPCInvariant == cSem + rSem = N 
 
-SemPCInit == /\ CRInit
+SemPCInit ==    /\ CRInit
                 /\ buf \in [0..(N-1) -> Output]
                 /\ nxtC = 0
                 /\ nxtR = 0
