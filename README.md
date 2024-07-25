@@ -41,3 +41,4 @@ https://medium.com/@polyglot_factotum/how-i-am-learning-distributed-systems-7eb6
 
 https://github.com/tlaplus/awesome-tlaplus
 https://learntla.com/reference/other-resources.html
+https://cgi.luddy.indiana.edu/~prateeks/dist-sys-course.html
