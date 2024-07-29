@@ -3,8 +3,8 @@
 ](https://www.microsoft.com/en-us/research/uploads/prod/1991/12/The-Temporal-Logic-of-Actions-Current.pdf)
 
 #### Guide 
-https://muratbuffalo.blogspot.com/2020/06/learning-about-distributed-systems.html
-https://medium.com/@polyglot_factotum/how-i-am-learning-distributed-systems-7eb69b4b51bd
+- https://muratbuffalo.blogspot.com/2020/06/learning-about-distributed-systems.html
+- https://medium.com/@polyglot_factotum/how-i-am-learning-distributed-systems-7eb69b4b51bd
 
 #### Milestones
 
@@ -37,8 +37,11 @@ https://medium.com/@polyglot_factotum/how-i-am-learning-distributed-systems-7eb6
 
 ---
 
+## slides
+- https://lpc.events/event/2/contributions/60/attachments/18/42/FormalMethodsPlumbers2018.pdf
+
 ## ref
 
-https://github.com/tlaplus/awesome-tlaplus
-https://learntla.com/reference/other-resources.html
-https://cgi.luddy.indiana.edu/~prateeks/dist-sys-course.html
+- https://github.com/tlaplus/awesome-tlaplus
+- https://learntla.com/reference/other-resources.html
+- https://cgi.luddy.indiana.edu/~prateeks/dist-sys-course.html
