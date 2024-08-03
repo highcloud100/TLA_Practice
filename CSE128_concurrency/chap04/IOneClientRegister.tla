@@ -4,6 +4,11 @@ EXTENDS TLC
 
 CONSTANTS RegisterVal
 VARIABLES iFace, sstate, cstate 
+(*
+    IOneClientServer는 sstate와 cstate를 변수로 가지기에 
+    (module의 변수가 아닌)
+    이를 상위 모듈에서 선언해주어야 한다.
+*)
 
 Request == [type: {"read"}] \cup [type: {"write"}, val: RegisterVal]
 
