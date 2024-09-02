@@ -31,7 +31,7 @@
 ### model checking
 - video
   - [ ] [Model checking-Katoen](https://youtube.com/playlist?list=PLwabKnOFhE38C0o6z_bhlF_uOUlblDTjh&si=1l_0QCvlkpy6wIwT)
-
+     - https://moves.rwth-aachen.de/teaching/ss-18/introduction-to-model-checking/ 
 - book
    - [ ] [Principles of Model Checking](https://en.wikipedia.org/wiki/Principles_of_Model_Checking)
 
