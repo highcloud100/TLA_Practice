@@ -20,7 +20,7 @@
 #### Distributed Systems
 
 - text
-  - [ ] [Introduction to Distributed Systems](https://cse.buffalo.edu/~demirbas/CSE586/book.pdf) <-- stopped at snapshot
+  - [x] [Introduction to Distributed Systems](https://cse.buffalo.edu/~demirbas/CSE586/book.pdf) <-- stopped at byzantine
   
 - code
   - [ ] [raft in go articles](https://github.com/eliben/raft?tab=readme-ov-file)
